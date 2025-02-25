@@ -23,4 +23,7 @@ fun main() {
     heroi3.atacar()
     heroi4.atacar()
     heroi5.atacar()
+    heroi5.atacar()
+    heroi5.atacar()
+
 }
